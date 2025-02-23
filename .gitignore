@@ -1,0 +1,5 @@
+/ConceptProject/ConceptProject/appsettings.Development.json
+/ConceptProject/ConceptProject/bin/**
+/ConceptProject/ConceptProject/obj/**
+/ConceptProject/.idea/**
+.DS_Store
